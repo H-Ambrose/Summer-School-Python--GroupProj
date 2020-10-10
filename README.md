@@ -15,4 +15,7 @@
 **F 介绍视频:**  
 逃.mp4  
    
-注：视频比较大  
+注：  
+视频链接：https://www.bilibili.com/video/BV1Up4y1a72Q  
+音效链接：链接：https://pan.baidu.com/s/1sZ-NbzBSxc2wsKdSGP6rBA 提取码：lvys   
+音效文件下载之后放在/源代码/sounds/中  
