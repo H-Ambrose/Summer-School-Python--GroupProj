@@ -6,6 +6,7 @@
 2. save_game.txt: 游戏存档, 如果删除则无法读档, 但是可以正常存档, 第一次存档之后程序自动创建save_game.txt, 不会再影响后续读档  
 3. [文件夹]images  
 4. [文件夹]sounds  
+
 **B 实习报告.docx**  
 **C 实习报告.pdf**  
 **D Poster.png: 作品海报**  
